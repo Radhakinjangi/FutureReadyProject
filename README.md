@@ -21,4 +21,4 @@ A mechanism to contact us and share feedback is provided through CONTACT US corn
 
 ![5](https://user-images.githubusercontent.com/87661918/181485180-4b593b34-66ce-4524-906a-4d74f3daba90.png)
 
-The link to the website is https://calm-tree-0e6975810.1.azurestaticapps.net/
+The link to the website is https://polite-rock-01af24b10.2.azurestaticapps.net/
